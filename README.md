@@ -1,4 +1,3 @@
-```markdown
 # Shodan OSINT Tool
 
 This is a simple OSINT (Open Source Intelligence) tool written in Rust that uses the Shodan API to gather information about hosts.
@@ -11,7 +10,8 @@ The project is organized into the following modules:
 - `api.rs`: This module contains the `ApiClient` struct and its associated functions for interacting with the Shodan API.
 - `data.rs`: This module contains the `DataProcessor` struct and its associated function for processing the JSON response from the API.
 
-## Setup
+
+
 
 1. Clone the repository:
 
