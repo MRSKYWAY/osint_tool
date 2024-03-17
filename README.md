@@ -16,8 +16,8 @@ The project is organized into the following modules:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/shodan-osint-tool.git
-cd shodan-osint-tool
+git clone https://github.com/MRSKYWAY/osint_tool.git
+cd osint-tool
 ```
 
 2. Set your Shodan API key as an environment variable:
